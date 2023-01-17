@@ -39,14 +39,6 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "iron_coin"
-    },
-    {
-      "name": "IronCoinRecipe",
-      "type": "recipe",
-      "sortid": 6,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "iron_coin_recipe"
     }
   ],
   "variable_elements": [],
@@ -77,7 +69,6 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.19.2",
-    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.fantasycurrency",
     "lockBaseModFiles": false
   },
