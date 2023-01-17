@@ -23,14 +23,6 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "intaglio"
-    },
-    {
-      "name": "CopperCoinRecipe",
-      "type": "recipe",
-      "sortid": 4,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "copper_coin_recipe"
     }
   ],
   "variable_elements": [],

@@ -15,22 +15,6 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "fantasy_currency"
-    },
-    {
-      "name": "Intaglio",
-      "type": "item",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "intaglio"
-    },
-    {
-      "name": "CopperCoinRecipe",
-      "type": "recipe",
-      "sortid": 4,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "copper_coin_recipe"
     }
   ],
   "variable_elements": [],
@@ -38,7 +22,6 @@
   "language_map": {
     "en_us": {
       "itemGroup.tabfantasy_currency": "Fantasy Currency",
-      "item.fantasy_currency.intaglio": "Intaglio",
       "item.fantasy_currency.copper_coin": "Copper Coin"
     }
   },
