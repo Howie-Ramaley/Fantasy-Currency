@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "fantasy_currency:intaglio"
+      "item": "fantasy_currency:copper_intaglio"
     },
     {
       "item": "minecraft:copper_ingot"

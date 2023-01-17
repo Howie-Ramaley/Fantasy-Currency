@@ -1,6 +1,9 @@
 {
   "item.fantasy_currency.iron_coin": "Iron Coin",
   "itemGroup.tabfantasy_currency": "Fantasy Currency",
-  "item.fantasy_currency.intaglio": "Intaglio",
+  "item.fantasy_currency.copper_intaglio": "Copper Intaglio",
+  "item.fantasy_currency.intaglio": "Copper Intaglio",
+  "item.fantasy_currency.gold_intaglio": "Gold Intaglio",
+  "item.fantasy_currency.gold_coin": "Gold Coin",
   "item.fantasy_currency.copper_coin": "Copper Coin"
 }

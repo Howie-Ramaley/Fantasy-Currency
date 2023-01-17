@@ -12,6 +12,9 @@ import net.minecraft.world.item.Item;
 
 import net.mcreator.fantasycurrency.item.IronCoinItem;
 import net.mcreator.fantasycurrency.item.IntaglioItem;
+import net.mcreator.fantasycurrency.item.GoldIntaglioItem;
+import net.mcreator.fantasycurrency.item.GoldCoinItem;
+import net.mcreator.fantasycurrency.item.CopperIntaglioItem;
 import net.mcreator.fantasycurrency.item.CopperCoinItem;
 import net.mcreator.fantasycurrency.FantasyCurrencyMod;
 
@@ -20,4 +23,7 @@ public class FantasyCurrencyModItems {
 	public static final RegistryObject<Item> COPPER_COIN = REGISTRY.register("copper_coin", () -> new CopperCoinItem());
 	public static final RegistryObject<Item> INTAGLIO = REGISTRY.register("intaglio", () -> new IntaglioItem());
 	public static final RegistryObject<Item> IRON_COIN = REGISTRY.register("iron_coin", () -> new IronCoinItem());
+	public static final RegistryObject<Item> GOLD_COIN = REGISTRY.register("gold_coin", () -> new GoldCoinItem());
+	public static final RegistryObject<Item> COPPER_INTAGLIO = REGISTRY.register("copper_intaglio", () -> new CopperIntaglioItem());
+	public static final RegistryObject<Item> GOLD_INTAGLIO = REGISTRY.register("gold_intaglio", () -> new GoldIntaglioItem());
 }

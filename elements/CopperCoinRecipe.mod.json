@@ -10,7 +10,7 @@
     "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": "CUSTOM:Intaglio"
+        "value": "CUSTOM:CopperIntaglio"
       },
       {
         "value": "Items.COPPER_INGOT"
