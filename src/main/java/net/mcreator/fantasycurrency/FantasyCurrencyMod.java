@@ -29,6 +29,9 @@ import net.minecraftforge.common.MinecraftForge;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 
+import net.mcreator.fantasycurrency.init.FantasyCurrencyModTabs;
+import net.mcreator.fantasycurrency.init.FantasyCurrencyModItems;
+
 import java.util.function.Supplier;
 import java.util.function.Function;
 import java.util.function.BiConsumer;
@@ -43,8 +46,10 @@ public class FantasyCurrencyMod {
 
 	public FantasyCurrencyMod() {
 		MinecraftForge.EVENT_BUS.register(this);
-
+		FantasyCurrencyModTabs.load();
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
+
+		FantasyCurrencyModItems.REGISTRY.register(bus);
 
 	}
 

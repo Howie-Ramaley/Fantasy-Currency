@@ -1,29 +1,9 @@
 {
-  "mod_elements": [
-    {
-      "name": "CopperCoin",
-      "type": "item",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "copper_coin"
-    },
-    {
-      "name": "FantasyCurrency",
-      "type": "tab",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "fantasy_currency"
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "itemGroup.tabfantasy_currency": "Fantasy Currency",
-      "item.fantasy_currency.copper_coin": "Copper Coin"
-    }
+    "en_us": {}
   },
   "foldersRoot": {
     "name": "~",
