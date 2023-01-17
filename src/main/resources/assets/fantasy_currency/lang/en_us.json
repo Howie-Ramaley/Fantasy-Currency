@@ -1,3 +1,4 @@
 {
-  "block.fantasy_currency.test": "Test"
+  "itemGroup.tabfantasy_currency": "Fantasy Currency",
+  "item.fantasy_currency.copper_coin": "Copper Coin"
 }
