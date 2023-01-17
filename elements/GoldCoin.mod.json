@@ -8,9 +8,9 @@
     "name": "Gold Coin",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:FantasyCurrency"
     },
-    "stackSize": 64,
+    "stackSize": 50,
     "enchantability": 0,
     "useDuration": 0,
     "toolType": 1.0,

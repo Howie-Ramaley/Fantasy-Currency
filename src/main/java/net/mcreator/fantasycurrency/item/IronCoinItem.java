@@ -8,6 +8,6 @@ import net.mcreator.fantasycurrency.init.FantasyCurrencyModTabs;
 
 public class IronCoinItem extends Item {
 	public IronCoinItem() {
-		super(new Item.Properties().tab(FantasyCurrencyModTabs.TAB_FANTASY_CURRENCY).stacksTo(64).rarity(Rarity.COMMON));
+		super(new Item.Properties().tab(FantasyCurrencyModTabs.TAB_FANTASY_CURRENCY).stacksTo(50).rarity(Rarity.COMMON));
 	}
 }

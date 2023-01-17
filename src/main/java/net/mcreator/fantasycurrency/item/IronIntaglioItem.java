@@ -5,9 +5,11 @@ import net.minecraft.world.item.Rarity;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;
 
-public class IntaglioItem extends Item {
-	public IntaglioItem() {
-		super(new Item.Properties().tab(null).stacksTo(1).rarity(Rarity.EPIC));
+import net.mcreator.fantasycurrency.init.FantasyCurrencyModTabs;
+
+public class IronIntaglioItem extends Item {
+	public IronIntaglioItem() {
+		super(new Item.Properties().tab(FantasyCurrencyModTabs.TAB_FANTASY_CURRENCY).stacksTo(64).rarity(Rarity.COMMON));
 	}
 
 	@Override

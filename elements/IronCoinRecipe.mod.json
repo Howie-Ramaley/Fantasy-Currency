@@ -10,7 +10,7 @@
     "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": "CUSTOM:Intaglio"
+        "value": "CUSTOM:IronIntaglio"
       },
       {
         "value": "Items.IRON_INGOT"

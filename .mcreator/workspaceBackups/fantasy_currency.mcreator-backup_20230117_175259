@@ -79,14 +79,6 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "gold_intaglio"
-    },
-    {
-      "name": "IronIntaglio",
-      "type": "item",
-      "sortid": 11,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "iron_intaglio"
     }
   ],
   "variable_elements": [],
@@ -98,7 +90,6 @@
       "item.fantasy_currency.copper_intaglio": "Copper Intaglio",
       "item.fantasy_currency.intaglio": "Copper Intaglio",
       "item.fantasy_currency.gold_intaglio": "Gold Intaglio",
-      "item.fantasy_currency.iron_intaglio": "Iron Intaglio",
       "item.fantasy_currency.gold_coin": "Gold Coin",
       "item.fantasy_currency.copper_coin": "Copper Coin"
     }
