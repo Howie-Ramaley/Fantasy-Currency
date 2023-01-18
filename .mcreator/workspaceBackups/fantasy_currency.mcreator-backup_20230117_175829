@@ -39,6 +39,54 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "iron_coin"
+    },
+    {
+      "name": "IronCoinRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_coin_recipe"
+    },
+    {
+      "name": "GoldCoin",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gold_coin"
+    },
+    {
+      "name": "GoldCoinRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gold_coin_recipe"
+    },
+    {
+      "name": "CopperIntaglio",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_intaglio"
+    },
+    {
+      "name": "GoldIntaglio",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gold_intaglio"
+    },
+    {
+      "name": "IronIntaglio",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_intaglio"
     }
   ],
   "variable_elements": [],
@@ -47,7 +95,11 @@
     "en_us": {
       "item.fantasy_currency.iron_coin": "Iron Coin",
       "itemGroup.tabfantasy_currency": "Fantasy Currency",
-      "item.fantasy_currency.intaglio": "Intaglio",
+      "item.fantasy_currency.copper_intaglio": "Copper Intaglio",
+      "item.fantasy_currency.intaglio": "Copper Intaglio",
+      "item.fantasy_currency.gold_intaglio": "Gold Intaglio",
+      "item.fantasy_currency.iron_intaglio": "Iron Intaglio",
+      "item.fantasy_currency.gold_coin": "Gold Coin",
       "item.fantasy_currency.copper_coin": "Copper Coin"
     }
   },
@@ -59,7 +111,7 @@
     "modid": "fantasy_currency",
     "modName": "Fantasy Currency",
     "version": "1.0.0",
-    "author": "Howcow4, MCreator",
+    "author": "Howcow4, DragonKing714, MCreator",
     "websiteURL": "https://mcreator.net",
     "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,
@@ -69,6 +121,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.fantasycurrency",
     "lockBaseModFiles": false
   },
